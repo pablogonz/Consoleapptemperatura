@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CoJz8bf0a05ME5X2AlY0Yw+cS6aBuNyoERT5VLPPJEOueWvmX3GYDqeXD96Nx59bL8xfN0peO0UmovEKBCV6Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjgon\\Desktop\\demopac\\demopac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjgon\\.nuget\\packages\\temperaturekata3\\1.0.2\\temperaturekata3.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
